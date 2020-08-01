@@ -9,9 +9,10 @@
   </a>
   <a href="https://www.codechef.com/users/parijat29" target="blank">
   <img align="left" alt="Parijat's Codechef" height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
+  </a>
 </p>   
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=parijat29" alt="parijat29" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=parijat29" alt="parijat29" /> </p>
 
 - 🔭 I’m currently working on [Mall Monitor](https://github.com/Build-with-AI-a-team)
 
