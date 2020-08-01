@@ -8,7 +8,7 @@
   
 </p>   
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=parijat29" alt="parijat29" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=parijat29" alt="parijat29" /> </p>
 
 - 🔭 I’m currently working on [Mall Monitor](https://github.com/Build-with-AI-a-team)
 
