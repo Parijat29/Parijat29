@@ -2,14 +2,10 @@
 <h3 align="center">A passionate Full Stack developer from India</h3>
 <p align="center">
   <a href="https://linkedin.com/in/parijat29" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Parijat's LinkedIn" height="20" width="20" /></a>
-  <a href="https://t.me/parijatk" target="blank"><img align="center" alt="Parijat's Telegram" height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-  </a>
-  <a href="https://www.instagram.com/parijatkhan/" target="blank">
-  <img align="left" alt="Parijat's Instagram" height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-  </a>
-  <a href="https://www.codechef.com/users/parijat29" target="blank">
-  <img align="left" alt="Parijat's Codechef" height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
-  </a>
+  <a href="https://t.me/parijatk" target="blank"><img align="center" alt="Parijat's Telegram" height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" /></a>
+  <a href="https://www.instagram.com/parijatkhan/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="Parijat's LinkedIn" height="20" width="20" /></a>
+  <a href="https://www.codechef.com/users/parijat29" target="blank"><img align="center" alt="Parijat's Telegram" height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" /></a>
+  
 </p>   
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parijat29" alt="parijat29" /> </p>
