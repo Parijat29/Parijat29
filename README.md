@@ -10,6 +10,10 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=parijat29" alt="parijat29" /> </p>
 
+<img align="right" height=300 alt="GIF" src="https://media.giphy.com/media/IoP0PvbbSWGAM/giphy.gif" />
+
+**More about myself**
+
 - 🔭 I’m currently working on [Mall Monitor](https://github.com/Build-with-AI-a-team)
 
 - 🌱 I’m currently learning **GraphQL and Scalable Design**
